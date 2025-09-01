@@ -4,6 +4,7 @@ QA Engineer <br>
 I’m currently learning Python <br>
 And now I`m looking for job <br>
 Worked as a UX/UI Designer and Quality Engineer(Device+Software)
+And I`m also obsessed with Automation(kiddinng
 
 ## Testing documentation 📄
 - 🐞 [Bug-report](https://docs.google.com/spreadsheets/d/1ONGbdt4K-JWgcFF_lFbWFxyupjARgR7NpiwlJvwUvzI/edit?gid=1207223175#gid=1207223175)
