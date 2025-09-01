@@ -1,9 +1,14 @@
 ## Hi, I`m Danylo 👋 <br>
 
-🔭 QA Engineer <br>
-🤔 I’m currently learning Python <br>
-📫 And now I`m looking for job <br>
-⚡Worked as a UX/UI Designer and Quality Engineer(Device+Software)
+QA Engineer <br>
+I’m currently learning Python <br>
+And now I`m looking for job <br>
+Worked as a UX/UI Designer and Quality Engineer(Device+Software)
+
+## Testing documentation 📄
+- 🐞 [Bug-report](https://docs.google.com/spreadsheets/d/1ONGbdt4K-JWgcFF_lFbWFxyupjARgR7NpiwlJvwUvzI/edit?gid=1207223175#gid=1207223175)
+- 📑 [Test-case](https://docs.google.com/spreadsheets/d/1ONGbdt4K-JWgcFF_lFbWFxyupjARgR7NpiwlJvwUvzI/edit?gid=0#gid=0)
+-  📌 [Check-list](https://docs.google.com/spreadsheets/d/1ONGbdt4K-JWgcFF_lFbWFxyupjARgR7NpiwlJvwUvzI/edit?gid=1895905273#gid=1895905273)(smoketesting)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/07d70e5b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mazitofff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danylo-mazitov-7b26a52a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tvdan29@gmail.com) 
